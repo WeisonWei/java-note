@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/java-io/java-io.iml" filepath="$PROJECT_DIR$/java-io/java-io.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-note.iml" filepath="$PROJECT_DIR$/.idea/java-note.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-thread-concurrency/java-thread-concurrency.iml" filepath="$PROJECT_DIR$/java-thread-concurrency/java-thread-concurrency.iml" />
     </modules>
   </component>
 </project>

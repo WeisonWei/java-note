@@ -14,5 +14,6 @@
     <modules>
         <module>java-io</module>
         <module>java-thread-concurrency</module>
+        <module>java-8</module>
     </modules>
 </project>
