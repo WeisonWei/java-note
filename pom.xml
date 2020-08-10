@@ -12,8 +12,9 @@
     <packaging>pom</packaging>
 
     <modules>
+        <module>java-base</module>
+        <module>java-8</module>
         <module>java-io</module>
         <module>java-thread</module>
-        <module>java-8</module>
     </modules>
 </project>
