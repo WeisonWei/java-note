@@ -17,5 +17,6 @@
         <module>java-io</module>
         <module>java-thread</module>
         <module>java-design-pattern</module>
+        <module>java-utils</module>
     </modules>
 </project>

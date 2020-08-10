@@ -13,3 +13,6 @@
 [submodule "java-design-pattern"]
 	path = java-design-pattern
 	url = https://github.com/WeisonWei/java-design-pattern.git
+[submodule "java-utils"]
+	path = java-utils
+	url = https://github.com/WeisonWei/java-utils.git
