@@ -4,3 +4,6 @@
 [submodule "java-8"]
 	path = java-8
 	url = https://github.com/WeisonWei/java-8.git
+[submodule "java-thread"]
+	path = java-thread
+	url = https://github.com/WeisonWei/java-thread.git
