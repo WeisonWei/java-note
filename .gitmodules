@@ -10,3 +10,6 @@
 [submodule "java-base"]
 	path = java-base
 	url = https://github.com/WeisonWei/java-base.git
+[submodule "java-design-pattern"]
+	path = java-design-pattern
+	url = https://github.com/WeisonWei/java-design-pattern.git
