@@ -14,9 +14,10 @@
     <modules>
         <module>java-base</module>
         <module>java-8</module>
-        <module>java-io</module>
         <module>java-thread</module>
-        <module>java-design-pattern</module>
+        <module>java-io</module>
         <module>java-utils</module>
+        <module>java-design-pattern</module>
+        <module>java-log</module>
     </modules>
 </project>

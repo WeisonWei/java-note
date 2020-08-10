@@ -16,3 +16,6 @@
 [submodule "java-utils"]
 	path = java-utils
 	url = https://github.com/WeisonWei/java-utils.git
+[submodule "java-log"]
+	path = java-log
+	url = https://github.com/WeisonWei/java-log.git
