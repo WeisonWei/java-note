@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/java-base/java-base.iml" filepath="$PROJECT_DIR$/java-base/java-base.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-design-pattern/java-design-pattern.iml" filepath="$PROJECT_DIR$/java-design-pattern/java-design-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-io/java-io.iml" filepath="$PROJECT_DIR$/java-io/java-io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-log/java-log.iml" filepath="$PROJECT_DIR$/java-log/java-log.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-note.iml" filepath="$PROJECT_DIR$/.idea/java-note.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-thread/java-thread.iml" filepath="$PROJECT_DIR$/java-thread/java-thread.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-utils/java-utils.iml" filepath="$PROJECT_DIR$/java-utils/java-utils.iml" />
