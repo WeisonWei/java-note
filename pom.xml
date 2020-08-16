@@ -8,7 +8,7 @@
     <groupId>com.weison</groupId>
     <artifactId>java-note</artifactId>
     <version>1.0.0-SNAPSHOT</version>
-    <url>https://github.com/WeisonWei/java-note</url>
+    <url>https://github.com/WeisonWei/java-note.git</url>
     <packaging>pom</packaging>
 
     <modules>
