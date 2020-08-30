@@ -39,5 +39,6 @@
         <module>java-utils</module>
         <module>java-design-pattern</module>
         <module>java-log</module>
+        <module>java-algorithm</module>
     </modules>
 </project>

@@ -19,3 +19,6 @@
 [submodule "java-log"]
 	path = java-log
 	url = https://github.com/WeisonWei/java-log.git
+[submodule "java-algorithm"]
+	path = java-algorithm
+	url = https://github.com/WeisonWei/java-algorithm.git
