@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/java-8" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java-algorithm" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/java-base" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/java-design-pattern" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/java-io" vcs="Git" />
